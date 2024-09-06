@@ -3,7 +3,7 @@
 ![Web developer](https://pbs.twimg.com/profile_banners/1766354069726334977/1725133039/1500x500)                                                            
 
   
-I am a Atikur Rhaman. I am a Web developer. I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+##### Atikur Rhaman is a skilled mean-stack web developer with front-end and back-end technologies expertise. Specializing in creating responsive, user-centric websites and applications, he excels in JavaScript, React, Node.js, and database management. Atikur is passionate about delivering innovative, efficient digital solutions.
 
 Skills: NODE/ REACT / JS / HTML / CSS
 
