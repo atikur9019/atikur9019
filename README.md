@@ -1,5 +1,5 @@
 # Hi there 👋, I am Atikur Rhaman
-## Web developer
+## MEAN-stack web developer 
 ![Web developer](https://pbs.twimg.com/profile_banners/1766354069726334977/1725133039/1500x500)                                                            
 
   
