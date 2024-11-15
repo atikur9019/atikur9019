@@ -1,6 +1,6 @@
 # Hi there 👋, I am Atikur Rhaman
 ## Mean-stack web developer 
-![Web developer](https://pbs.twimg.com/profile_banners/1766354069726334977/1725133039/1500x500)                                                            
+![Web developer](https://pbs.twimg.com/profile_banners/1766354069726334977/1731672211/1500x500)                                                            
 
   
 ##### Atikur Rhaman is a skilled mean-stack web developer with front-end and back-end technologies expertise. Specializing in creating responsive, user-centric websites and applications, he excels in JavaScript, React, Node.js, and database management. Atikur is passionate about delivering innovative, efficient digital solutions.
