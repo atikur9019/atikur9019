@@ -5,7 +5,7 @@
   
 ##### Atikur Rhaman is a skilled mean-stack web developer with front-end and back-end technologies expertise. Specializing in creating responsive, user-centric websites and applications, he excels in JavaScript, React, Node.js, and database management. Atikur is passionate about delivering innovative, efficient digital solutions.
 
-Skills: NODE/ REACT / JS / HTML / CSS
+Skills:  JS / HTML / CSS
 
 - 🌱 I’m currently learning Javascript 
 - 💬 Ask me about Web developer 
